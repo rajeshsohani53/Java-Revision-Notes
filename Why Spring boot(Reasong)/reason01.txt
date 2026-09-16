@@ -1,0 +1,9 @@
+Why Spring Boot
+
+In Spring, suppose I want an object of any class or say what I need to do, I need to manually say to Spring which class object I want via XML-based or annotation-based mapping.
+
+Also, I need to create one configuration class and use @Configuration and @ComponentScan("package name").
+
+So, what we are doing here is called manual configuration.
+
+This thing is done automatically inside Spring Boot, and this is one of the reasons why Spring Boot comes.
